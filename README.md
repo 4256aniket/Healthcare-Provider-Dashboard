@@ -3,7 +3,6 @@
 A comprehensive Power BI dashboard for healthcare providers to monitor financial metrics, procedure costs, regional distribution, and departmental performance.
 
 <img src="https://github.com/4256aniket/Healthcare-Provider-Dashboard/blob/main/Dashboard.png" alt="Dashboard Preview" width="600"/>
----
 
 ## Overview
 
